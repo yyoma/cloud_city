@@ -41,13 +41,22 @@ img{
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
-    justify-content: center;
+    align-content: center;
     align-items: center;
+    font-size: 12px;
+    font-family: sans-serif;
+    line-height: 1.15;
     
 }
 
 .shirts_container{
-    display: flex;
+   display: flex;
+   
+   flex-wrap: wrap;
+   flex-direction: column;
+   justify-content: center;
+   width: 1000px;
+   margin-right: 200px;
 }
 
 #first_image{
