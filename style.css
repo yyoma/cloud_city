@@ -85,6 +85,21 @@ img {
   margin: 5px 0;
 }
 
+#hbanner {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  background-image: url("b1.jpg");
+
+  background-position: 100% 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 50px;
+  padding-right: 100px;
+  margin: -15px;
+}
+
 #signUp {
   display: flex;
   justify-content: space-between;
