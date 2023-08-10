@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #041E42;
+    
     
     
 }
@@ -227,7 +227,7 @@ img{
   display: inline-block;
   justify-content: center;
   flex-wrap: wrap;
-  white-space: nowrap;
+  
   position:relative; left:80px; top:-240px;
 }
 .sale img{
@@ -265,6 +265,7 @@ img{
   height: 50px;
   
 }
+
 h59 {
   display: none;
   font-size: 250%;
